@@ -1,0 +1,17 @@
+{
+  "name": "contact-jamstack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "form-data": "^4.0.0",
+    "gatsby": "^5.12.3",
+    "mailgun.js": "^9.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
